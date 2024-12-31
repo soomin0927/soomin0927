@@ -1,4 +1,4 @@
-## 20241231 - 클라우드기반 백엔드 풀스택 웹 서비스 개발(AWS, 큐레이팅) 
+## 20241231_클라우드기반 백엔드 풀스택 웹 서비스 개발(AWS, 큐레이팅) 
 
 <!--
 **soomin0927/soomin0927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 <h4>\_へ(▭-▭)✨</h4>
 
-<img src="https://img.shields.io/badge/Html-239120?style=flat-square&logo=html&logoColor=white"/> <img src="https://img.shields.io/badge/Css-239120?style=flat-square&logo=css&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-191970?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Reactive-B7178C?style=flat-square&logo=reactive&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Html-239120?style=flat-square&logo=html&logoColor=white"/> <img src="https://img.shields.io/badge/Css-239120?style=flat-square&logo=css&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-191970?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Reactive-B7178C?style=flat-square&logo=reactive&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-006400?style=flat-square&logo=node.js&logoColor=white"/>
 </p>
