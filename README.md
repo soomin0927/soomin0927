@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-Studying...
 <img src="https://img.shields.io/badge/Html-FF6347?style=flat-square&logo=html&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-3DDC84?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-191970?style=flat-square&logo=java&logoColor=white"/>
